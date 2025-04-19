@@ -1,6 +1,5 @@
 # Tema 1 - SDA 2025 (Grigore Mihnea - Andrei)
-# <h6>Try Ctrl + Shift + V in VsCode to preview this Markdown
-<h6>This project simulates a simplified web browser with support for multiple tabs, browsing history, and basic navigation commands. The core challenge addressed is managing dynamic tab and page navigation efficiently, while preserving history through stacks. The implementation uses circular doubly linked lists for tab management and linked stacks for tracking backward and forward navigation. Commands like opening/closing tabs, navigating between them, visiting pages, and printing history are read from an input file and processed in order to mimic realistic browser behavior.
+# <h6>This project simulates a simplified web browser with support for multiple tabs, browsing history, and basic navigation commands. The core challenge addressed is managing dynamic tab and page navigation efficiently, while preserving history through stacks. The implementation uses circular doubly linked lists for tab management and linked stacks for tracking backward and forward navigation. Commands like opening/closing tabs, navigating between them, visiting pages, and printing history are read from an input file and processed in order to mimic realistic browser behavior.
 
 ## Table of Contents
 
