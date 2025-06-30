@@ -20,7 +20,7 @@
 15. [valid_id](#14-valid_id)
 16. [open_page_id](#15-open_page_id)
 17. [print_stack](#16-print_stack)
-18. [print_history](#17-print_history)\
+18. [print_history](#17-print_history)
     
 ---
 
